@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in Firebase: unclear errors during initialization or database interactions due to misconfiguration or overly restrictive rules. The `firebaseBug.js` file contains code that demonstrates these problems, while `firebaseBugSolution.js` provides solutions and best practices.
